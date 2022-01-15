@@ -37,7 +37,7 @@ concepts, memory
 
 
 
-## Commit
+## Comment
 
 I strongly suggest students take computer architecture structure(CAS) before taking this one. Campisi will not go through all the hardware knowledge. Basic understanding of computer hardware is required if you want to get A in this course. 
 
