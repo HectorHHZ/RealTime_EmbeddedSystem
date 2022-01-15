@@ -8,18 +8,31 @@ This course is offered by NYU Tandon school of Eningeering. I took this course a
 
 • Week 1: Preliminaries : definitions, examples of embedded systems, computer organization 
 concepts, memory
+
 • Week 2: ARM Cortex Mxxx Hardware Overview
+
 • Week 3: Embedded C programming concepts/VS Code IDE/Embed OS
+
 • Week 4: ARM Assembly Language
+
 • Week 5: Ports, Registers, GPIO
+
 • Week 6: Timers , Counters, and PWM
+
 • Week 7: Analog I/O, ADC/DAC/ Embedded DSP
+
 • Week 8: Communications :, USART, SPI, TWI (Exam 1)
+
 • Week 9: Interrupts, ISRs and Callbacks
+
 • Week 10: RTOS Characteristics: Scheduling, priorities, reentrancy
+
 • Week 11: RTOS: Shared Resources Management, Mutex, Semaphores and Critical Sections
+
 • Week 12: Reliability and System Modeling (Exam 2)
+
 • Week 13: Future of embedded systems : Networking and IOT (Internet of Things)
+
 • Week 14: Project Recap and Prep
 
 
