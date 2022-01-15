@@ -39,7 +39,7 @@ concepts, memory
 
 ## Commit
 
-I strongly suggest students take computer architecture structure(CAS) before taking this one. Campisi will not go through all the hardware knowledge. Basic understanding of computer hardware is required if you want to get A in this course. Although the course materials are hard to understand, the professor is kind and the final grade is friendly: Around(Even more than in some semesters) 50% students get A/A- in this course.
+I strongly suggest students take computer architecture structure(CAS) before taking this one. Campisi will not go through all the hardware knowledge. Basic understanding of computer hardware is required if you want to get A in this course. 
 
 
 
@@ -51,7 +51,7 @@ In this project ,we aimed to design a distance recording program, with board STM
 
 ## Final Grade
 
-I got full score and ranked NO.1 in this course: full score for all assignments, coding homeworks, two exams, and final project. ![Grade](E:\OneDrive - CUHK-Shenzhen\NYU\2021_Fall\EECS_EMBEDDED\RealTime_EmbeddedSystem\Grade.PNG)
+Although the course materials are hard to understand, the professor is kind and the final grade is friendly: Around(Even more than in some semesters) 50% students get A/A- in this course.
 
-
+I got full score and ranked NO.1 in this course: full score for all assignments, coding homeworks, two exams, and final project.
 
