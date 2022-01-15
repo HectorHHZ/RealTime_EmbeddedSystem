@@ -51,7 +51,7 @@ In this project ,we aimed to design a distance recording program, with board STM
 
 ## Final Grade
 
-I got full score and ranked NO.1 in this course: full score for all assignments, coding homeworks, two exams, and final project. 
+I got full score and ranked NO.1 in this course: full score for all assignments, coding homeworks, two exams, and final project. ![Grade](E:\OneDrive - CUHK-Shenzhen\NYU\2021_Fall\EECS_EMBEDDED\RealTime_EmbeddedSystem\Grade.PNG)
 
-![Grade](E:\OneDrive - CUHK-Shenzhen\NYU\2021_Fall\EECS_EMBEDDED\RealTime_EmbeddedSystem\Grade.PNG)
+
 
