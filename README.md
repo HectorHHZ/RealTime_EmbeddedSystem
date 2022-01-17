@@ -41,7 +41,7 @@ concepts, memory
 
 I strongly suggest students take computer architecture structure(CAS) before taking this one. Campisi will not go through all the hardware knowledge. Basic understanding of computer hardware is required if you want to get A in this course. 
 
-#Assignment
+## Assignment
 
 Since Campisi use the same assignment repeatly in each semester, I will not release my solution for the assignments.
 
